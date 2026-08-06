@@ -6,7 +6,7 @@ This repository contains the Gateway application for **Windows** and **Linux**.
 
 ```text
 windows/
-├── 
+├──  fc-gw-config-stand-alone.rar
 
 linux/
 ├── firmcraft-gateway-configurator_1.0.0_amd64.deb
@@ -16,12 +16,12 @@ linux/
 
 # Installation Guide
 
-## Windows
+## Windows Installation
 
-1. Open the `windows` folder.
-2. Double-click `Gateway_Setup.exe`.
-3. Follow the installation wizard.
-4. Launch the application from the Start Menu or Desktop shortcut.
+1. Download `fc-gw-config-stand-alone.rar`.
+2. Extract the archive using WinRAR or 7-Zip.
+3. Open the extracted folder.
+4. Run `gateway_configurator.exe`.
 
 ---
 
